@@ -134,7 +134,7 @@
 
 <!-- Add font awesome icons -->
  
-<a href="instagram.om/uddipanbhattachrjee03" class="fa fa-instagram"></a>
+<a href="https:??instagram.com/uddipanbhattachrjee03" class="fa fa-instagram"></a>
 
       
 </body>
