@@ -128,7 +128,6 @@
 </head>
 <body>
 
-<h2>Coming Soon </h2>
 <h3>Official Website of Uddipan Bhattarchjee</h3>
 <h4> Join me on Insta </h4>
 
